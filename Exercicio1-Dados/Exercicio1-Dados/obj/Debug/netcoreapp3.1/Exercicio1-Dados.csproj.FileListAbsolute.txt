@@ -1,0 +1,13 @@
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\bin\Debug\netcoreapp3.1\Exercicio1-Dados.exe
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\bin\Debug\netcoreapp3.1\Exercicio1-Dados.deps.json
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\bin\Debug\netcoreapp3.1\Exercicio1-Dados.runtimeconfig.json
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\bin\Debug\netcoreapp3.1\Exercicio1-Dados.runtimeconfig.dev.json
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\bin\Debug\netcoreapp3.1\Exercicio1-Dados.dll
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\bin\Debug\netcoreapp3.1\Exercicio1-Dados.pdb
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\obj\Debug\netcoreapp3.1\Exercicio1-Dados.csprojAssemblyReference.cache
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\obj\Debug\netcoreapp3.1\Exercicio1-Dados.AssemblyInfoInputs.cache
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\obj\Debug\netcoreapp3.1\Exercicio1-Dados.AssemblyInfo.cs
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\obj\Debug\netcoreapp3.1\Exercicio1-Dados.csproj.CoreCompileInputs.cache
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\obj\Debug\netcoreapp3.1\Exercicio1-Dados.dll
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\obj\Debug\netcoreapp3.1\Exercicio1-Dados.pdb
+C:\Users\julli\source\repos\Exercicio1-Dados\Exercicio1-Dados\obj\Debug\netcoreapp3.1\Exercicio1-Dados.genruntimeconfig.cache
