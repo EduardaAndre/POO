@@ -1,0 +1,13 @@
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\bin\Debug\netcoreapp3.1\Exercicio - 31-08.exe
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\bin\Debug\netcoreapp3.1\Exercicio - 31-08.deps.json
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\bin\Debug\netcoreapp3.1\Exercicio - 31-08.runtimeconfig.json
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\bin\Debug\netcoreapp3.1\Exercicio - 31-08.runtimeconfig.dev.json
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\bin\Debug\netcoreapp3.1\Exercicio - 31-08.dll
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\bin\Debug\netcoreapp3.1\Exercicio - 31-08.pdb
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\obj\Debug\netcoreapp3.1\Exercicio - 31-08.csprojAssemblyReference.cache
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\obj\Debug\netcoreapp3.1\Exercicio - 31-08.AssemblyInfoInputs.cache
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\obj\Debug\netcoreapp3.1\Exercicio - 31-08.AssemblyInfo.cs
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\obj\Debug\netcoreapp3.1\Exercicio - 31-08.csproj.CoreCompileInputs.cache
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\obj\Debug\netcoreapp3.1\Exercicio - 31-08.dll
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\obj\Debug\netcoreapp3.1\Exercicio - 31-08.pdb
+C:\Users\julli\OneDrive\Área de Trabalho\Exercicio - 31-08\Exercicio - 31-08\obj\Debug\netcoreapp3.1\Exercicio - 31-08.genruntimeconfig.cache
